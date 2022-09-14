@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "title": "title",
+      "author": "posts",
+      "id": 5
+    }
+  ],
+  "user": [
+    "any"
+  ],
+  "blogs": {
+    "any": []
+  }
+}

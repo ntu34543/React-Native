@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "author": "Thanh Tú",
+      "title": "Trăng tròn",
+      "id": 1
+    }
+  ],
+  "user": [
+    "any"
+  ],
+  "blogs": {
+    "any": []
+  }
+}
