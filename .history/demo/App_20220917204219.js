@@ -18,7 +18,7 @@ import PostCardItem from "./src/components/PostCardItem";
 
 // update this url -> "<new_ngrok_host_url>/posts"
 const url =
-  "https://8dee-2402-800-7777-8d5-25e9-cfae-a28c-678c.ap.ngrok.io/posts";
+  "https://a83d-2401-d800-946c-a6d5-117d-fd66-9697-e.ap.ngrok.io/posts";
 
 const headers = {
   "Content-Type": "application/json",
